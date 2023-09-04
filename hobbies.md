@@ -46,7 +46,7 @@ title: Hobbies
 
 ### 分享一些美好瞬间
 
-<div class="second">
+<div class="third">
 <img src="/images/cat.jpg">
 <img src="/images/flower1.jpg">
 <img src="/images/flower2.jpg">
