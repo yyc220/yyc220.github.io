@@ -53,4 +53,6 @@ title: Hobbies
 <img src="/images/icecream.jpg">
 <img src="/images/sunset.jpg">
 <img src="/images/烤肉.jpg">
+<img src="/images/风景.jpg">
 </div>
+
