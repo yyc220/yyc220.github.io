@@ -1,4 +1,4 @@
-title: Yacong
+title: 杨雅聪
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
@@ -32,9 +32,9 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: 关于我
     url: /
-  - title: Hobbies
+  - title: 兴趣爱好
     url: /hobbies/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
