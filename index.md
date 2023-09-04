@@ -4,8 +4,6 @@ layout: page
 
 # 关于我
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
-
 我的名字叫杨雅聪,来自福建省泉州市。
 
 我就读于福州大学，是一名2021级计算机科学与技术专业的学生。
