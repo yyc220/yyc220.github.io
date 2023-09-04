@@ -10,10 +10,11 @@ title: Hobbies
 
 ### 乒乒球
 
-<div class="third">
+<div class="second">
 <img src="/images/table_tennis1.jpg">
 <img src="/images/table_tennis2.jpg">
 </div>
+
 
 我热爱运动，尤其喜欢打乒乓球。每当拿起球拍，我就能感受到满满的活力在体内涌动。挥舞球拍，击球的那一刹那，我仿佛与球融为一体，身心得到完美的协调。乒乓球让我享受到比赛的激情，也从中体会到团队的合作。每次和朋友们一起打球，欢声笑语中，我感受到了友谊和快乐。无论是锻炼身体还是放松心情，乒乓球都是我最钟爱的运动。
 
@@ -23,7 +24,7 @@ title: Hobbies
 
 ### 田径运动
 
-<div class="third">
+<div class="second">
 <img src="/images/运动会1.jpg">
 <img src="/images/运动会2.jpg">
 </div>
@@ -34,9 +35,10 @@ title: Hobbies
 
 ### 滑板
 
-<div class="third">
+<div class="second">
 <img src="/images/滑板.png">
 </div>
+
 
 我喜欢玩滑板，它是我释放自我的方式。小时候，我也因此常常成为大人眼中的“危险分子”~
 
