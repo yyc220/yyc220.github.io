@@ -14,6 +14,7 @@ owner:
   # twitter: lancecai2002
   # facebook: caihanlin2002
   github: yyc220
+  CSDN: dasong__
   # linkedin: hanlincai
   # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   # instagram: lancecai2002
@@ -35,7 +36,7 @@ links:
   - title: 关于我
     url: /
   - title: 兴趣爱好
-    url: /hobbies/
+    url: /兴趣爱好/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
