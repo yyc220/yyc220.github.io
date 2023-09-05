@@ -22,6 +22,8 @@ title: Hobbies
 
 <br>
 
+------
+
 ### 田径运动
 
 <div class="second">
@@ -33,6 +35,8 @@ title: Hobbies
 
 <br>
 
+------
+
 ### 滑板
 
 <div class="second">
@@ -43,6 +47,8 @@ title: Hobbies
 我喜欢玩滑板，它是我释放自我的方式。小时候，我也因此常常成为大人眼中的“危险分子”~
 
 <br>
+
+------
 
 ### 分享一些美好瞬间
 
